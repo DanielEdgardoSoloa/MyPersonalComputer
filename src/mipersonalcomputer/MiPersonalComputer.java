@@ -8,7 +8,7 @@ public class MiPersonalComputer {
         Computadora asus=new Computadora("'ASUS SonicMaster'","Samsung 1TR","4 GB",
                 "i5",new PlacaMadre("Biostar","Realtec","Nvidia"));
         asus.MostrarComputadora();
-        System.out.println("hice un cambio");
+        
     }
     
 }
